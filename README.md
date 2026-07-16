@@ -128,7 +128,7 @@ Healthcare-Analytics-Dashboard/
 
 ## 👩‍💻 Author
 
-**Shruti Hule**
+Shruti Hule
 
 Final-Year Computer Engineering Student
 
