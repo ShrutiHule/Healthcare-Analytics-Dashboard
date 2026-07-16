@@ -99,11 +99,8 @@ Healthcare-Analytics-Dashboard/
 ├── Healthcare_Analytics.pbix
 ├── Healthcare_Dataset.xlsx
 │
-└── images/
-    └── dashboard.png
-```
+└──dashboard.png
 
----
 
 ## 🚀 Skills Demonstrated
 
