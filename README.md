@@ -58,7 +58,9 @@ This dashboard helps healthcare organizations monitor key performance indicators
 
 ## 📷 Dashboard Preview
 
-![Dashboard](./Healthcare%20Dashboard.png)
+## Dashboard Preview
+
+![Healthcare Analytics Dashboard](Healthcare%20Dashboard.png)
 
 ---
 
