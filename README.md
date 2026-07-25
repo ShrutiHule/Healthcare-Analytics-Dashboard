@@ -142,8 +142,8 @@ Aspiring Data Analyst
 - Python
 - Data Analytics
 
----
 
-## ⭐ If you like this project, don't forget to give it a Star!
+
+
 
 Thank you for visiting my repository.
