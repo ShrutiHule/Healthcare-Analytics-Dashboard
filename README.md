@@ -58,7 +58,7 @@ This dashboard helps healthcare organizations monitor key performance indicators
 
 ## 📷 Dashboard Preview
 
-C:\Users\hules\OneDrive\Desktop\image\dashboard.png
+![Dashboard](./Healthcare%20Dashboard.png)
 
 ---
 
